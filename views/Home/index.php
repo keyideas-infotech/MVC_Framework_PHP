@@ -1,0 +1,3 @@
+<h1>Company Information</h1>
+<p>Keyideas's mission is to make software development easier and more enjoyable. Our use of  tools for designing, agile project management, collaboration, development and testing allow companies of all sizes to create richer, more stable and aesthetic product faster than ever before. Trusted by over 100+ customers worldwide for our devotion to quality and customer care, Keyideas helps technical and business professionals maximize their productivity and "deliver more than expected" every day.</p>
+<p>As true craftsmen, we don't believe in compromises and our goal is to only release software that we can be proud of.</p>
